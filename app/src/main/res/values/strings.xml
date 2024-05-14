@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TickTick</string>
+    <string name="ticktick">TickTick</string>
+    <string name="design_by_naryan_sharma">Design By\nAryan Sharma</string>
+    <string name="TickTick" />
+    <string name="enter_the_note">Enter the Note</string>
+    <string name="enter_the_title">Enter the Title</string>
+</resources>
